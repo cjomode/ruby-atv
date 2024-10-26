@@ -1,3 +1,3 @@
-#Estudando a Linguagem Ruby 
+# Estudando a Linguagem Ruby 
 
-Realizando as atividades dos Curso gratuito do OneBitCode de Ruby
+Realizando as atividades dos Curso gratuito Start em Ruby do OneBitCode
